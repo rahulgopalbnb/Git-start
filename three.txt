@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 hello Rahul 
+=======
+<<<<<<< HEAD
+deveopment
+=======
+main
+
+>>>>>>> b82ff9d00d70e218fffe0fb0a63c92062cab3220
+>>>>>>> development
